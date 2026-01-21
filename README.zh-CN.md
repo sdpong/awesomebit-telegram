@@ -109,12 +109,3 @@
 ## 许可
 
 [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) — 公共领域奉献。
-优化说明：
-
-更紧凑、可读性高（短描述 + 统一格式）
-TOC 链接完整，便于跳转
-必须突出墨子，并保持在 BSC 部分
-覆盖历史 + 新活跃币（2025 发行仍在活跃的）
-徽章、警告、许可位置标准
-
-替换 YOUR_USERNAME/awesome-crypto-telegram 为实际仓库路径后，星星/叉子徽章会自动更新。如果需要进一步调整（如加图标、排序、具体新币），告诉我！
