@@ -59,7 +59,6 @@
 - **Binance Killers** — BSC alt 信号。~214K。[加入](https://t.me/binancekillers)
 - **墨子 (Mozi / $MOZI)** — 优化奖励机制，2 天烧毁近 10%，交易分红。“兼爱非攻”主题，社区驱动 + 空投。 [加入](https://t.me/Mozibsc) (CA: 0x43eeeb094a9dbd656ebd17cc4cd5daad5d407777 — DexScreener 验证)
 - **币安人生 (Binance Life)** — BNB 主题文化与 hype。~50K+。[加入](https://t.me/bianrensheng)
-- **超级雪球 (Super Snowball)** — 推广与信号。[加入](https://t.me/supersnowballbnb) (CA: 0x7ee784fc79f43d8c863ef2583eed94e576bd7777)
 - **Axolotl ($AXO)** — 社区再生主题。[加入](https://t.me/axolotl_bsc)
 - **1PIECE** — 海贼王强共识。[加入](https://t.me/OnePieceGlobal) (CA: 0xf263cc32caed261a819713f3dcc494a96c3e5111)
 
