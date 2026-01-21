@@ -13,9 +13,9 @@
 **English version → [English (README.md)](README.md)**
 
 **⚠️ 重要警告**  
-加密领域风险极高：诈骗、rug、波动常见。  
+加密领域风险极高：诈骗、rug、波动常见（尤其是 Solana meme 群）。  
 绝不分享私钥或助记词。  
-通过官方 X、DexScreener、BscScan 等验证所有链接。  
+通过官方 X、DexScreener、Solscan 等验证所有链接。  
 本列表仅供参考 — **非投资建议**。DYOR！
 
 **参考日期**：2026 年 1 月（成员数为近似值，可能变化）。
@@ -49,16 +49,24 @@
 ## Solana (SOL)
 
 - **DEXTOOLS PUMPS** — Solana gems 泵信号。~8K。[加入](https://t.me/DEXTOOLSPUMPS)
-- **Bullish’s Bangers** — Solana 高质量 call。[加入](https://t.me/bullishsbangers)
-- **Manifesting Riches** — Solana 早期低帽 alpha。[加入](https://t.me/manifestingriches)
+- **Bullish’s Bangers** — Solana 高质量 call（10x–130x 案例）。[加入](https://t.me/bullishsbangers)
+- **Manifesting Riches** — Solana 早期低帽 meme alpha。[加入](https://t.me/manifestingriches)
+- **Batman’s Gems** — Solana 高量 meme 行动与 pump。[加入](https://t.me/batman_gem)
+- **SOLANA MEME COINS CALLS** — Solana meme caller 群，X 验证链接。[加入](https://t.me/solanamemecoinss)
+- **Crypto Pump Club** — Solana meme pump 重度，协调警报。~200K+。[加入](https://t.me/crypto_pump_club)
+- **MemeCoin Whale Pumps** — Solana meme 鲸鱼追踪，早起发射。~151K。[加入](https://t.me/memecoinwhalepumps)
+- **Solar Solana中文社群** — Solana 华语核心社区，生态 + 项目讨论（含 meme 话题，禁止广告/OTC）。~23K。[加入](https://t.me/solanaZH_official)
+- **Solana 中文愛好者** — Solana 中文新闻、项目、AMA 和 meme 分享。关联讨论群 [@solanatw](https://t.me/solanatw)。[加入](https://t.me/soltwpin)
 
 ## 币安智能链 (BNB/BSC)
 
-历史币 + 2025–2026 meme 轮动活跃。
+历史币 + 2025–2026 中文 meme 轮动活跃。
 
 - **Binance Killers** — BSC alt 信号。~214K。[加入](https://t.me/binancekillers)
-- **墨子 (Mozi / $MOZI)** — 优化奖励机制，2 天烧毁近 10%，交易分红。“兼爱非攻”主题，社区驱动 + 空投。 [加入](https://t.me/Mozibsc) (CA: 0x43eeeb094a9dbd656ebd17cc4cd5daad5d407777 — DexScreener 验证)
+- **墨子 (Mozi / $MOZI)** — 优化奖励机制，2 天烧毁近 10%，交易分红。“兼爱非攻”主题。[加入](https://t.me/Mozibsc) (CA: 0x43eeeb094a9dbd656ebd17cc4cd5daad5d407777)
 - **币安人生 (Binance Life)** — BNB 主题文化与 hype。~50K+。[加入](https://t.me/bianrensheng)
+- **病毒币 (Virus BSC)** — 病毒主题 meme，蝴蝶模式回购。[加入](https://t.me/virusbnb) (CA: 0x99a1526dc11acc2dc720884b631fa02d55474444)
+- **我踏马来了 (Wo Ta Ma Lai Le)** — 病毒式中文 meme，快速泵。[加入](https://t.me/wotamalailecto)
 - **Axolotl ($AXO)** — 社区再生主题。[加入](https://t.me/axolotl_bsc)
 - **1PIECE** — 海贼王强共识。[加入](https://t.me/OnePieceGlobal) (CA: 0xf263cc32caed261a819713f3dcc494a96c3e5111)
 
@@ -75,6 +83,9 @@
 
 - **BOINKERS** — TON 空投与互动社区。[加入](https://t.me/boinkers)
 - **XOOB** — TON mini-app 空投工具。[加入](https://t.me/xoob)
+- **Toncoin 中文频道** — TON 官方新闻与更新（中文）。~189K。[加入](https://t.me/toncoin_cn)
+- **TON Dev Chat (中文)** — TON 开发者讨论（中文）。~6K。[加入](https://t.me/tondev_zh)
+- **TON 中文社区** — TON 通用聊天与想法分享（中文）。[加入](https://t.me/toncoin_cn_chat)
 
 ## 多链 / 通用
 
@@ -108,3 +119,4 @@
 ## 许可
 
 [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) — 公共领域奉献。
+这些新增的 Solana meme 群在 2026 年仍是活跃的热门选择，尤其是 pump.fun 和低市值 meme 的 alpha 来源。中文社区相对较少纯 meme 向，更多是生态讨论，但会涉及 meme 项目。如果你有特定 Solana meme 币或中文群想加入，告诉我，我可以继续搜索补充。记得 DYOR，Solana meme 速度极快，风险极高！
