@@ -103,3 +103,8 @@ CC0 1.0 Universal — 公共领域奉献。
 ---
 
 感谢使用！如果需要调整（例如加更多 BSC 项目、删减部分、改成中文 README、添加徽章等），告诉我具体要求，我再帮你优化。
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/sdpong/awesomebit-telegram.svg?variant=adaptive)](https://starchart.cc/sdpong/awesomebit-telegram)
+
+
