@@ -13,12 +13,12 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome) and 
 **中文版 → [简体中文 (README.zh-CN.md)](README.zh-CN.md)**
 
 **⚠️ Critical Warning**  
-High-risk space: scams, rugs, volatility common.  
+High-risk space: scams, rugs, volatility common (especially in Solana meme groups).  
 Never share private keys or seed phrases.  
-Always verify links via official X, DexScreener, BscScan, or chain explorers.  
+Always verify links via official X, DexScreener, Solscan, or chain explorers.  
 This list is for informational purposes only — **not financial advice**. DYOR!
 
-**Reference Date**: January 2026 (member counts approximate and may fluctuate).
+**Reference Date**: January 2026 (member counts approximate; links verified as active where possible).
 
 ## Table of Contents
 
@@ -49,22 +49,30 @@ This list is for informational purposes only — **not financial advice**. DYOR!
 ## Solana (SOL)
 
 - **DEXTOOLS PUMPS** — Pump signals and gems on Solana. ~8K. [Join](https://t.me/DEXTOOLSPUMPS)
-- **Bullish’s Bangers** — High-quality Solana calls and alpha. [Join](https://t.me/bullishsbangers)
-- **Manifesting Riches** — Early low-cap Solana opportunities. [Join](https://t.me/manifestingriches)
+- **Bullish’s Bangers** — High-quality Solana calls and alpha (10x–130x plays). [Join](https://t.me/bullishsbangers)
+- **Manifesting Riches** — Early low-cap Solana memes and alpha. [Join](https://t.me/manifestingriches)
+- **Batman’s Gems** — High-volume Solana meme action and pumps. [Join](https://t.me/batman_gem)
+- **SOLANA MEME COINS CALLS** — Solana meme caller group, links to X verification. ~4.6K+. [Join](https://t.me/solanamemecoinss)
+- **Crypto Pump Club** — Heavy Solana meme pumps, coordinated alerts. ~200K+. [Join](https://t.me/crypto_pump_club)
+- **MemeCoin Whale Pumps** — Whale tracking on Solana memes, early launches. ~151K. [Join](https://t.me/memecoinwhalepumps)
+- **Solar Solana中文社群** — Solana 华语核心社区，生态 + 项目讨论（含 meme 话题，禁止广告/OTC）。~23K. [Join](https://t.me/solanaZH_official)
+- **Solana 中文愛好者** — Solana 中文新闻、项目、AMA 和 meme 分享。关联讨论群 [@solanatw](https://t.me/solanatw)。[Join](https://t.me/soltwpin)
 
 ## Binance Smart Chain (BNB/BSC)
 
-Active for historical tokens and 2025–2026 memes/rotations.
+Active for historical tokens and 2025–2026 Chinese memes/rotations.
 
 - **Binance Killers** — Altcoin signals (BSC focus). ~214K. [Join](https://t.me/binancekillers)
-- **墨子 (Mozi / $MOZI)** — Optimized rewards, ~10% burn in 2 days, transaction dividends. "兼爱非攻" theme, community-driven + airdrops. [Join](https://t.me/Mozibsc) (CA: 0x43eeeb094a9dbd656ebd17cc4cd5daad5d407777 — verify DexScreener)
+- **墨子 (Mozi / $MOZI)** — Optimized rewards, ~10% burn in 2 days, transaction dividends. "兼爱非攻" theme. [Join](https://t.me/Mozibsc) (CA: 0x43eeeb094a9dbd656ebd17cc4cd5daad5d407777)
 - **币安人生 (Binance Life)** — BNB-themed meme culture and hype. ~50K+. [Join](https://t.me/bianrensheng)
+- **病毒币 (Virus BSC)** — Virus-inspired meme, butterfly mode buyback. [Join](https://t.me/virusbnb) (CA: 0x99a1526dc11acc2dc720884b631fa02d55474444)
+- **我踏马来了 (Wo Ta Ma Lai Le)** — Viral Chinese meme, rapid pumps. [Join](https://t.me/wotamalailecto)
 - **Axolotl ($AXO)** — Community regen theme. [Join](https://t.me/axolotl_bsc)
 - **1PIECE** — Strong consensus (One Piece inspired). [Join](https://t.me/OnePieceGlobal) (CA: 0xf263cc32caed261a819713f3dcc494a96c3e5111)
 
 ## OKX Chain / X Layer
 
-- **Maestro Bot Community** — Multi-chain sniper (includes OKX listings). [Join](https://t.me/maestro)
+- **Maestro Bot Community** — Sniper for OKX listings. [Join](https://t.me/maestro)
 - **Dogs ($DOGS)** — Telegram-native meme with OKX support. [Join](https://t.me/dogs_community)
 
 ## Base
@@ -75,6 +83,9 @@ Active for historical tokens and 2025–2026 memes/rotations.
 
 - **BOINKERS** — TON airdrop and interactive community. [Join](https://t.me/boinkers)
 - **XOOB** — TON mini-app airdrops and tools. [Join](https://t.me/xoob)
+- **Toncoin 中文频道** — Official TON news and updates in Chinese. ~189K. [Join](https://t.me/toncoin_cn)
+- **TON Dev Chat (中文)** — Developer discussions for TON in Chinese. ~6K. [Join](https://t.me/tondev_zh)
+- **TON 中文社区** — General TON chats and ideas in Chinese. [Join](https://t.me/toncoin_cn_chat)
 
 ## Multi-Chain / General
 
