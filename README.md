@@ -4,8 +4,6 @@
 
 A curated, community-driven list of **Telegram groups and channels** focused on cryptocurrency discussions, trading signals, meme coins, airdrops, news, and community hype — classified primarily by blockchain.
 
-Inspired by [sdpong/awesome-telegram](https://github.com/sdpong/awesome-telegram) (如果该仓库已不存在或私有，可参考其他活跃 fork 如 [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram))。
-
 **⚠️ 重要警告**  
 - 加密货币领域风险极高，尤其是 meme 币和 pump 群。  
 - 永远不要分享私钥、种子短语或信任任何人。  
