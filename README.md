@@ -59,7 +59,6 @@ Active for historical tokens and 2025–2026 memes/rotations.
 - **Binance Killers** — Altcoin signals (BSC focus). ~214K. [Join](https://t.me/binancekillers)
 - **墨子 (Mozi / $MOZI)** — Optimized rewards, ~10% burn in 2 days, transaction dividends. "兼爱非攻" theme, community-driven + airdrops. [Join](https://t.me/Mozibsc) (CA: 0x43eeeb094a9dbd656ebd17cc4cd5daad5d407777 — verify DexScreener)
 - **币安人生 (Binance Life)** — BNB-themed meme culture and hype. ~50K+. [Join](https://t.me/bianrensheng)
-- **超级雪球 (Super Snowball)** — Promotions and signals. [Join](https://t.me/supersnowballbnb) (CA: 0x7ee784fc79f43d8c863ef2583eed94e576bd7777)
 - **Axolotl ($AXO)** — Community regen theme. [Join](https://t.me/axolotl_bsc)
 - **1PIECE** — Strong consensus (One Piece inspired). [Join](https://t.me/OnePieceGlobal) (CA: 0xf263cc32caed261a819713f3dcc494a96c3e5111)
 
